@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1,NAT GEO WILD (HINDI)
+http://galaxyiptv.pro:8080/umerbaig/002872/246727
+#EXTINF:-1,ANIMAL PLANET (HINDI)
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://galaxyiptv.pro:8080/umerbaig/002872/246720
+#EXTINF:-1,HISTORY (HINDI)
+http://galaxyiptv.pro:8080/umerbaig/002872/246721
+#EXTINF:-1,Goldmines Bollywood 
+https://tvs1.aynaott.com/GoldminesBollywood/tracks-v1a1/mono.m3u8?hdnts=st%3D1702805118%7Eexp%3D1702848318%7Eacl%3D%2F%2A%7Edata%3D111.88.208.34-WEB%7Ehmac%3D663ea7395761def3819f5e579922dd5c586f841f12db42c227b340cd048d7b5f
+#EXTINF:-1,Colors Cineplex Bollywood
+https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f61466289fee2ab71e2b0d630be3892c34885b4d31141008d8452c72fce0a3b6b486a05b9593f586ab4a5c7b332fa5ad5c4cbbe33f0565a433ba8e3a827c3dad51952545442c3b5defed19ac3d5cd4b219abb1f28938a2cfb70358651c90855727b73c8284be31538488317efc25c25a64c699f666b85221086a28bb64cd7d8b9d5&token=
+#EXTINF:-1,Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/eeb4fed3-ff11-411c-a3ac-4a52c5be6a19/0.m3u8
+#EXTINF:-1,Bollywood Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/a3bf50a3-f9ea-4756-a554-090bdeec3056/0.m3u8
+#EXTINF:-1,9X Music
+https://dishtv-test.akamaized.net/111122/9xmusic/111122/9xmusic_1800/chunks.m3u8
+#EXTINF:-1,Music India 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+
