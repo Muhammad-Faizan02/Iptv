@@ -25,3 +25,5 @@ https://yuppirecloriginvt.akamaized.net/28072023/smil:bbo.smil/chunklist_b262800
 https://faketv.co.in/amedia/stream.php?id=15678
 #EXTINF:-1,Bollywood Prime 
 https://dai.google.com/linear/hls/pa/event/yvQpXDAeRMGU25KTu--V6Q/stream/0d43a8d7-e9cd-4b9f-80b1-24114a9b607b:BRU/variant/7c78a2dcaf133f167b8b7081db1d898b/bandwidth/1513600.m3u8
+#EXTINF:-1,BBO Classic
+https://yuppirecloriginvt.akamaized.net/120723/smil:bboclassic.smil/chunklist_b2628000.m3u8?hdntl=exp=1702898339~acl=!*/120723/smil:bboclassic.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=78758c74809f0c50c819fb0516f1a3d0d95e43017ab0e9b9901c2c1841dfa4c4
