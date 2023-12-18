@@ -37,3 +37,5 @@ https://tvs1.aynaott.com/SabSD/tracks-v1a1/mono.m3u8?hdnts=st%3D1702815581%7Eexp
 https://tvs1.aynaott.com/MaxHD/tracks-v1a1/mono.m3u8?hdnts=st%3D1702815822%7Eexp%3D1702859022%7Eacl%3D%2F%2A%7Edata%3D111.88.208.34-WEB%7Ehmac%3D6d7465ba158b526055159bb2840e5379b6d4a8568a4a49bfd78282e952adc0c4
 #EXTINF:-1,SONY SET HD
 http://galaxyiptv.pro:8080/umerbaig/002872/15
+#EXTINF:-1,Test
+http://stream.geoiptv.live:8880/username/password/15
