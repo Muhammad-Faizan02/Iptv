@@ -45,3 +45,5 @@ http://stream.geoiptv.live:8880/username/password/586730
 http://stream.geoiptv.live:8880/username/password/111579
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Aakhree_Raasta_1986.jpg", Aakhree Raasta
 http://s01.dl.domaze.net/movies/urdu/a/AakhreeRaasta.1986/AakhreeRaasta.1986.DVDRip.mp4
+#EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/Amrit-1366360275-8146.jpg", Amrit
+http://s01.dl.domaze.net/movies/urdu/a/Amrit.1986/Amrit.1986.DVDRip.avi
