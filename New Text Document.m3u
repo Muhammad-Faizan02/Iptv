@@ -53,8 +53,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/zeebollywood-au
 https://cdn4521.convold-fashlorton-i-272.site/stream2/i-arch-400/0d25deb749ff990dc67ce0e4dc1c4d98/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29EVrhXWXlFMZJTW4pFVZhnTUhGaap2Y5l1VGlWTqVVNaRUS51kaFNTWtVUP:1703361593:111.88.212.43:6f0e4dad810aed14c40884b8370ead52ef104025da82cfb8c6dca5ba6a355812/720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Devdas_%282002_Hindi_film%29.jpg", Devdas
 https://ei.megacdn.co:2228/v3-hls-playback/c6cdb032d769b173f7c61a34b95814b097cc19dc3fc299cb7d2a0ea461816fda4bc1c03f97fb0957b928971755c5046337243171c6689ec9d340a6582c652268b8e9da220ba090d3da5fff02afc91d2d099851b12bd446f8b0ded1d233811bbbccf8ba61dbdaa1c6c3daf79253bfd76643bda827aeeca19e3a84d7233a433eb425ae8efef0dde9dccbf387dd8d252bf3c92f5fa83b686044fc685d808e3c9b44829bf19ab57f0b3c2a4c1fa4b1488f8d/1080/index.m3u8
-#EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/Laal.Singh.Chaddha-16602162418965.jpg"
-group-title="MOVIES", Laal Singh Chaddha
+#EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/Laal.Singh.Chaddha-16602162418965.jpg" group-title="MOVIES",Laal Singh Chaddha
 http://s01.dl.domaze.net/movies/urdu/l/LaalSinghChaddha.2022/LaalSinghChaddha.2022.BRRip.mkv
 #EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/Pushpa..The.Rise...Part.1-16398109234189.jpg" group-title="MOVIES", Pushpa
 http://s01.dl.domaze.net/movies/urdu/p/PushpaTheRisePart.1.2021/PushpaTheRisePart.1.2021.BRRip.mkv
@@ -64,6 +63,5 @@ http://s01.dl.domaze.net/movies/english/j/JumanjiTheNextLevel.2019/JumanjiTheNex
 http://s01.dl.domaze.net/movies/urdu/k/K.G.F.Chapter.1.2018/K.G.F.Chapter.1.2018.DVDRip.mkv
 #EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/K.G.F..Chapter.1-15456363867484.jpg" group-title="MOVIES",KGF Chapter 2
 http://s01.dl.domaze.net/movies/urdu/k/K.G.F.Chapter.2.2022/K.G.F.Chapter.2.2022.BRRip.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Quaid-e-Azam Zindabad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqgzgpB9nynNEjY5445EhMG8zn9.jpg" group-title="MOVIES",Quaid-e-Azam Zindabad (2022)
 http://galaxyiptv.pro:8080/movie/sahka/112233/211733.mkv
