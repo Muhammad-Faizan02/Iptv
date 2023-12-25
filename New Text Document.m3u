@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1,NAT GEO WILD (HINDI)
-http://galaxyiptv.pro:8080/umerbaig/002872/246727
-
+http://galaxyiptv.pro:8080/sahka/112233/246727
 #EXTINF:-1,HISTORY (HINDI)
-http://galaxyiptv.pro:8080/umerbaig/002872/246721
+http://galaxyiptv.pro:8080/sahka/112233/246721
 #EXTINF:-1,Goldmines Bollywood 
 https://tvs1.aynaott.com/GoldminesBollywood/tracks-v1a1/mono.m3u8?hdnts=st%3D1702911578%7Eexp%3D1702954778%7Eacl%3D%2F%2A%7Edata%3D111.88.220.137-WEB%7Ehmac%3Db09ae3093a2c0b30426d00c7c131183533612e9a4745badcf86c9491a8060169
 #EXTINF:-1,Colors Cineplex Bollywood
@@ -18,7 +17,6 @@ https://dishtv-test.akamaized.net/111122/9xmusic/111122/9xmusic_1800/chunks.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1,BBO
 https://yuppirecloriginvt.akamaized.net/28072023/smil:bbo.smil/chunklist_b2628000.m3u8?hdntl=exp=1702897027~acl=!*/28072023/smil:bbo.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=a0295b1b20f9be91a4cbf470e6aa6dd3655beca57c5369f2b836438ab12426ca
-
 #EXTINF:-1,Bollywood Prime 
 https://dai.google.com/linear/hls/pa/event/yvQpXDAeRMGU25KTu--V6Q/stream/0d43a8d7-e9cd-4b9f-80b1-24114a9b607b:BRU/variant/7c78a2dcaf133f167b8b7081db1d898b/bandwidth/1513600.m3u8
 #EXTINF:-1,BBO Classic
@@ -27,7 +25,6 @@ https://yuppirecloriginvt.akamaized.net/120723/smil:bboclassic.smil/chunklist_b2
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb573d1f7a6c6d8684c83f6ecef24482977b3dcb0e6c886470af4a9765d96300dbf9b9c8fd3ab13c1ec0468a710b6f5a4d1ac919df7c7bc6d719df48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27750c59e0a95792982a4c3653a6d2700cd0401b0b03df2a9b01f1cc769a2b6024b933d51b28010cddd49b889c952cd10d36bf015c8c7edda85178b9b9236fb01b6630a5a7b789f844b81a32fde79534e43fe4103047665e7a89aed5a3d88352c369adef8cfae7b8eacf341a0733eba7af5273c8aad19cd22a6f34fa3a5b29d2d29de48e3290314849fc5b9f23b37b52c9cc88c8c212fc8a7463a2fa31ce52f8ea642769334fd9aa333bb772184495754e1824c9ad29982fdb18e42951f37a69e84104d546a080e8712f7d43d9b61f171a6db0b7a1c6c4aa9885acd82990f62390fabd20e854331e882b8a4964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebde54482b854f934651756e0b20150474571d5ae550c3678d14cab8699b6395a569e9aa799e15d3c15361e567ee9b3b50af5ccac041214c85f23204418189801dc08871828b75fbe76a6435d3c4d2e73544d63cef0/8/1920x1080_5058864/index.m3u8
 #EXTINF:-1,YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
-
 #EXTINF:-1,Sony Max
 https://tvs1.aynaott.com/MaxHD/tracks-v1a1/mono.m3u8?hdnts=st%3D1702815822%7Eexp%3D1702859022%7Eacl%3D%2F%2A%7Edata%3D111.88.208.34-WEB%7Ehmac%3D6d7465ba158b526055159bb2840e5379b6d4a8568a4a49bfd78282e952adc0c4
 #EXTINF:-1,SONY SET HD
@@ -41,7 +38,7 @@ http://stream.geoiptv.live:8880/username/password/179136
 #EXTINF:-1,B4U Music
 http://stream.geoiptv.live:8880/username/password/326093
 #EXTINF:-1,Animal Planet
-http://stream.geoiptv.live:8880/username/password/586730
+http://galaxyiptv.pro:8080/sahka/112233/246719
 #EXTINF:-1,Star Gold Hd
 http://stream.geoiptv.live:8880/username/password/111579
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Aakhree_Raasta_1986.jpg", Aakhree Raasta
