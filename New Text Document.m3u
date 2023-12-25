@@ -63,6 +63,5 @@ http://s01.dl.domaze.net/movies/english/j/JumanjiTheNextLevel.2019/JumanjiTheNex
 http://s01.dl.domaze.net/movies/urdu/k/K.G.F.Chapter.1.2018/K.G.F.Chapter.1.2018.DVDRip.mkv
 #EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/K.G.F..Chapter.1-15456363867484.jpg", KGF Chapter 2
 http://s01.dl.domaze.net/movies/urdu/k/K.G.F.Chapter.2.2022/K.G.F.Chapter.2.2022.BRRip.mp4
-#EXTINF:-1 tvg-id="211733" tvg-name="Channel Name" tvg-logo="Channel Logo URL" group-title="Movies",Channel Name
-http://galaxyiptv.pro:8080/sahka/112233/211733
-
+#EXTINF:-1 tvg-id="" tvg-name="Quaid-e-Azam Zindabad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqgzgpB9nynNEjY5445EhMG8zn9.jpg" group-title="PAKISTANI MOVIES",Quaid-e-Azam Zindabad (2022)
+http://galaxyiptv.pro:8080/movie/sahka/112233/211733.mkv
