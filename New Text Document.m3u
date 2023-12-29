@@ -67,6 +67,5 @@ http://s01.dl.domaze.net/movies/urdu/k/K.G.F.Chapter.2.2022/K.G.F.Chapter.2.2022
 http://galaxyiptv.pro:8080/movie/sahka/112233/211733.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="ALL DISCOVERY",DISCOVERY (HINDI)
 http://galaxyiptv.pro:8080/live/sahka/112233/246733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Krantiveer" tvg-logo="http://files.domaze.net//movies/images/Krantiveer-13849403010269.jpg"
-group-title="MOVIES",Krantiveer
+#EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/Krantiveer-13849403010269.jpg" group-title="MOVIES",Krantiveer
 http://s01.dl.domaze.net/movies/urdu/k/Krantiveer.1994/Krantiveer.1994.DVDRip.avi
