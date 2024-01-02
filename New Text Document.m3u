@@ -70,7 +70,7 @@ http://galaxyiptv.pro:8080/movie/sahka/112233/211733.mkv
 http://galaxyiptv.pro:8080/live/sahka/112233/246733.m3u8
 #EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/Krantiveer-13849403010269.jpg" group-title="MOVIES",Krantiveer
 https://vd238.mycdn.me/expires/1703961494936/srcIp/111.88.208.154/srcAg/CHROME_ANDROID/ms/45.136.22.46/type/3/sig/YZnOV4C5dzM/ct/8/urls/45.136.20.67/clientType/1/zs/43/id/1079546809030/video/
-#EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/Bala-15735404165654.jpg group-title="MOVIES",Bala
+#EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/Bala-15735404165654.jpg" group-title="MOVIES",Bala
 http://s01.dl.domaze.net/movies/urdu/b/Bala.2019/Bala.2019.BRRip.mkv
-#EXTINF:-1 tvg-logo="http://files.domaze.net//movies/images/Bala-15735404165654.jpg group-title="MOVIES",12th Fail
+#EXTINF:-1 tvg-logo="https://img.wonkychickens.org/data/cover/k/M/kM1uy6tm2t.jpg" group-title="MOVIES",12th Fail
 http://127.0.0.1:11470/2dfbad716ed7309ec7d6cd0b42fc15eee4614e38/12th%20Fail%20%282023%29%20Hindi%201080p%20-%20HQ%20HDRip%20-%20x264%20-%20DD%2B5.1%20%28192Kbps%29%20%2B%20%20AAC%20-%202.7GB%20-%20ESub.mkv
