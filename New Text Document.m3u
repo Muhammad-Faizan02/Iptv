@@ -80,3 +80,6 @@ http://khi.dl.dodear.com/movies/urdu/t/Tiger.3.2023/Tiger.3.2023.BRRip.mp4
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://line.lion-ott.com/play/live.php?mac=00:1a:79:65:f9:0c&stream=281315&extension=ts
+#EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Hindi",MTV Beats HD
+http://watchindia.net:8880/live/12171/04170628/786.ts
+
