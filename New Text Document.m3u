@@ -37,8 +37,8 @@ http://stream.geoiptv.live:8880/username/password/179098
 http://stream.geoiptv.live:8880/username/password/179136
 #EXTINF:-1,B4U Music
 http://stream.geoiptv.live:8880/username/password/326093
-#EXTINF:-1,Animal Planet
-http://galaxyiptv.pro:8080/sahka/112233/246719
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet Hindi
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 #EXTINF:-1,Star Gold Hd
 http://stream.geoiptv.live:8880/username/password/111579
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Aakhree_Raasta_1986.jpg", Aakhree Raasta
@@ -76,10 +76,6 @@ http://s01.dl.domaze.net/movies/urdu/b/Bala.2019/Bala.2019.BRRip.mkv
 https://abra--7537ca20.api.nocturnal-narwhal.buzz/82ff71a4d5e3a1a8da8aa643965bf5ac1c29ab04/12th%20Fail%20%282023%29%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D%2F12th.Fail.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4~vod/hls/2aeaf67b52c413a1f249fda05e4de2de/index.m3u8?user-id=4064eb00da763ba181a6c50e0b534f28&download-id=fdce0f00a2248ddc6688e2263288d484&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZ2VudCI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMjsgTTIwMTBKMTlTRyBCdWlsZC9TS1ExLjIxMTIwMi4wMDE7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvMTIwLjAuNjA5OS4xNDQgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJyZW1vdGVBZGRyZXNzIjoiMTExLjg4LjIwOC4xNDQiLCJkb21haW4iOiJ3d3cueWlmeXN0cmVhbS50byIsImV4cCI6MTcwNTAwMjgwOCwic2Vzc2lvbklEIjoib3hsSVlWQ1lGWXBlSndVSEhHQU50TV82X1BKd3pMbloiLCJyYXRlIjoiMTBNIiwicm9sZSI6Im5vYm9keSJ9.WtX-g43Wrd5nGeR8Xbtpjnobst-m7Iz-zsxke6vgPfk&api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1
 #EXTINF:-1 tvg-logo="http://files.dodear.com//movies/images/Tiger.3-16998618196762.jpg" group-title="MOVIES",Tiger.3
 http://khi.dl.dodear.com/movies/urdu/t/Tiger.3.2023/Tiger.3.2023.BRRip.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[IN] ANIMAL PLANET UHD" group-title="[IN] INDIA",[IN] ANIMAL PLANET UHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.lion-ott.com/play/live.php?mac=00:1a:79:65:f9:0c&stream=281315&extension=ts
 #EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Hindi",MTV Beats HD
 http://watchindia.net:8880/live/12171/04170628/786.ts
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors TV HD 1" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD 1
